@@ -2,6 +2,11 @@
 
 Frontend en React + TypeScript + Vite para la API de reserva de vuelos Fly Away (Semana 14).
 
+## Requisitos
+
+- Node.js 20.19+ o 22.12+
+- El backend corriendo en `http://localhost:8080`
+
 ## Cómo correrlo
 
 1. Levantar el backend (en su propia carpeta):
